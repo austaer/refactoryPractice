@@ -1,9 +1,5 @@
 package com.refactor;
 
-import com.refactor.main.Customer;
-import com.refactor.main.Movie;
-import com.refactor.main.Rental;
-
 public class Main {
     public static final void main(String args[]) {
         Customer customer = new Customer("Bob");

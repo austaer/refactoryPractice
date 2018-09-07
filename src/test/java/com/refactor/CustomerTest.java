@@ -1,4 +1,4 @@
-package com.refactor.test;
+package com.refactor;
 
 public class CustomerTest {
 }
